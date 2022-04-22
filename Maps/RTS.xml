@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" CustomColourName="SkyBlue2" Name="Rts" Priority="1">
+	<Line Name="L375">JAINS.L375.DABAK</Line>
+	<Line Name="L435">KOZIK.L435.BUTUX</Line>
+	<Line Name="L451">JAINS.L451.LETON</Line>
+	<Line Name="L452">OXANA.L452.LNHOM</Line>
+	<Line Name="L453">SAUCR.L453.LAMER</Line>
+	<Line Name="L454">OKONU.L454.LUCTI</Line>
+	<Line Name="L455">VESRA.L455.LENNT</Line>
+	<Line Name="L456">MARIG.L456.THANK</Line>
+	<Line Name="L457">OKONU.L457.BDA</Line>
+	<Line Name="L458">BDA.L458.THANK</Line>
+	<Line Name="L459">SAVIK.L459.CAFFE</Line>
+	<Line Name="L461">MARIG.L461.YIYYO</Line>
+	<Line Name="L462">KAYYT.L462.LAMKN</Line>
+	<Line Name="L576">BDA.L576.CITRS</Line>
+	<Line Name="L776">FERNA.L776.MACOR</Line>
+	<Line Name="M201">VIRST.M201.CARAC</Line>
+	<Line Name="M202">UKOKA.M202.LOMPI</Line>
+	<Line Name="M203">SNAGY.M203.BOBTU</Line>
+	<Line Name="M204">SUMRS.M204.SOORY</Line>
+	<Line Name="M325">OXANA.M325.BDA</Line>
+	<Line Name="M326">JAINS.M326.BDA</Line>
+	<Line Name="M327">SUMRS.M327.WINGZ</Line>
+	<Line Name="M328">CNNOR.M328.NUMBR</Line>
+	<Line Name="M329">GRATX.M329.LAZEY</Line>
+	<Line Name="M330">MILLE.M330.BALOO</Line>
+	<Line Name="M331">CANEE.M331.NUMBR</Line>
+	<Line Name="M525">CAFFE.M525.KAVAX</Line>
+	<Line Name="M576">NEYDU.M576.RKDIA</Line>
+	<Line Name="M590">ANVER.M590.PIREX</Line>
+	<Line Name="M591">BOVIC.M591.PIREX</Line>
+	<Line Name="M592">DASER.M592.PIREX</Line>
+	<Line Name="M593">GRATX.M593.AMENO</Line>
+	<Line Name="M594">MLLER.M594.AMENO</Line>
+	<Line Name="M595">MILLE.M595.RABAL</Line>
+	<Line Name="M596">WATRS.M596.SIFEN</Line>
+	<Line Name="M597">THANK.M597.FIVZE</Line>
+	<Line Name="Y315">GEROA.Y315.KEEKA</Line>
+	<Line Name="Y481">DIXIE.Y481.KINGG</Line>
+	<Line Name="Y482">DIXIE.Y482.SQUAD</Line>
+	<Line Name="Y483">MARIG.Y483.JFK</Line>
+	<Line Name="Y484">OKONU.Y484.JFK</Line>
+	<Line Name="Y485">SAUCR.Y485.YAALE</Line>
+	<Line Name="Y486">SAVIK.Y486.JFK</Line>
+	<Line Name="Y487">SHIPP.Y487.KINGG</Line>
+	<Line Name="Y488">SHIPP.Y488.SAUCR</Line>
+	<Line Name="Y489">SHIPP.Y489.RESQU</Line>
+	<Line Name="Y490">SHIPP.Y490.ROLLE</Line>
+	<Line Name="Y492">SHIPP.Y492.SQUAD</Line>
+	<Line Name="Y493">VEGAA.Y493.TUBBS</Line>
+	<Line Name="Y494">WHOOS.Y494.YAALE</Line>
+	<Line Name="Y495">YAALE.Y495.CAMRN</Line>
+	<Line Name="Y497">YAALE.Y497.SUBBS</Line>
+	<Line Name="Y578">BRUWN.Y578.KAYYT</Line>
+
+<Symbol Type="HollowSquare">	
+		<Point Name=""></Point>				
+	</Symbol>	
+  </Map>	
+  <Map Type="System" CustomColourName="SkyBlue2" Name="Rts_Nms" Priority="15">  
+<Label HasLeader="false">
+	    <Point Name=""></Point>
+</Label>
+</Map>    
+  <Map Type="System" CustomColourName="SpringGreen" Name="Pts" Priority="1">
+    <Symbol Type="Hexagon">
+		<Point></Point>
+		
+	</Symbol>
+    <Symbol Type="DotFillCircle">
+		<Point></Point>	
+	</Symbol>	
+    <Symbol Type="SolidTriangle">  
+		 <Point>AMENO</Point>
+		 <Point>AMTTO</Point>
+		 <Point>ANTIG</Point>
+		 <Point>ANVER</Point>
+		 <Point>ATUGI</Point>
+		 <Point>AVAST</Point>
+		 <Point>AYTTE</Point>
+		 <Point>AZEZU</Point>
+		 <Point>BALOO</Point>
+		 <Point>BALTN</Point>
+		 <Point>BNJEE</Point>
+		 <Point>BOBTU</Point>
+		 <Point>BORQE</Point>
+		 <Point>BOVIC</Point>
+		 <Point>BROOM</Point>
+		 <Point>BUTUX</Point>
+		 <Point>CANEE</Point>
+		 <Point>CARAC</Point>
+		 <Point>CHEDR</Point>
+		 <Point>CITRS</Point>
+		 <Point>CNNOR</Point>
+		 <Point>DABAK</Point>
+		 <Point>DARUX</Point>
+		 <Point>DASER</Point>
+		 <Point>DAWIN</Point>
+		 <Point>DOVEY</Point>
+		 <Point>DRDGE</Point>
+		 <Point>DRYED</Point>
+		 <Point>ELJEZ</Point>
+		 <Point>ENAPI</Point>
+		 <Point>FERNA</Point>
+		 <Point>FISST</Point>
+		 <Point>FIVZE</Point>
+		 <Point>GALWY</Point>
+		 <Point>GALWY</Point>
+		 <Point>GECAL</Point>
+		 <Point>GLAAS</Point>
+		 <Point>GRATX</Point>
+		 <Point>HANCY</Point>
+		 <Point>JAINS</Point>
+		 <Point>JEBBY</Point>
+		 <Point>JENYY</Point>
+		 <Point>JIMAC</Point>
+		 <Point>JOBOC</Point>
+		 <Point>KAVAX</Point>
+		 <Point>KAYYT</Point>
+		 <Point>KEEKA</Point>
+		 <Point>KINCH</Point>
+		 <Point>KINER</Point>
+		 <Point>KINGG</Point>
+		 <Point>LACKS</Point>
+		 <Point>LAMER</Point>
+		 <Point>LAZEY</Point>
+		 <Point>LETON</Point>
+		 <Point>LNHOM</Point>
+		 <Point>LOMPI</Point>
+		 <Point>LUCTI</Point>
+		 <Point>MAPYL</Point>
+		 <Point>MARIG</Point>
+		 <Point>MILLE</Point>
+		 <Point>MLLER</Point>
+		 <Point>MUNEY</Point>
+		 <Point>NETSS</Point>
+		 <Point>NOVOK</Point>
+		 <Point>NUMBR</Point>
+		 <Point>OBIKE</Point>
+		 <Point>OKONU</Point>
+		 <Point>OPAUL</Point>
+		 <Point>OTTNG</Point>
+		 <Point>OWENZ</Point>
+		 <Point>PIREX</Point>
+		 <Point>RESQU</Point>
+		 <Point>RKDIA</Point>
+		 <Point>RNGRS</Point>
+		 <Point>ROLLE</Point>
+		 <Point>SAILE</Point>
+		 <Point>SAUCR</Point>
+		 <Point>SAVIK</Point>
+		 <Point>SEAVR</Point>
+		 <Point>SELIM</Point>
+		 <Point>SHEIL</Point>
+		 <Point>SIFEN</Point>
+		 <Point>SKPPR</Point>
+		 <Point>SLATN</Point>
+		 <Point>SNAGY</Point>
+		 <Point>SOCCO</Point>
+		 <Point>SOORY</Point>
+		 <Point>SQUAD</Point>
+		 <Point>SUMRS</Point>
+		 <Point>TALGO</Point>
+		 <Point>TROUT</Point>
+		 <Point>TUBBS</Point>
+		 <Point>UKOKA</Point>
+		 <Point>VEGAA</Point>
+		 <Point>WATRS</Point>
+		 <Point>WHOOS</Point>
+		 <Point>WICKE</Point>
+		 <Point>WINGZ</Point>
+		 <Point>ZZTOP</Point>
+
+	</Symbol>
+  </Map>	
+  <Map Type="System" CustomColourName="SpringGreen" Name="UTA" Priority="1">	
+	<Symbol Type="Circle">
+	
+	</Symbol>
+  </Map>	
+
+  <Map Type="System" CustomColourName="Green" Name="UTA_Nms" Priority="1" >	
+	<Label>  
+
+	</Label>
+  </Map>		
+  <Map Type="System" CustomColourName="SpringGreen" Name="Pts_Nms" Priority="1" >
+    <Label> 
+		 <Point>AMENO</Point>
+		 <Point>AMTTO</Point>
+		 <Point>ANTIG</Point>
+		 <Point>ANVER</Point>
+		 <Point>ATUGI</Point>
+		 <Point>AVAST</Point>
+		 <Point>AYTTE</Point>
+		 <Point>AZEZU</Point>
+		 <Point>BALOO</Point>
+		 <Point>BALTN</Point>
+		 <Point>BNJEE</Point>
+		 <Point>BOBTU</Point>
+		 <Point>BORQE</Point>
+		 <Point>BOVIC</Point>
+		 <Point>BROOM</Point>
+		 <Point>BUTUX</Point>
+		 <Point>CANEE</Point>
+		 <Point>CARAC</Point>
+		 <Point>CHEDR</Point>
+		 <Point>CITRS</Point>
+		 <Point>CNNOR</Point>
+		 <Point>DABAK</Point>
+		 <Point>DARUX</Point>
+		 <Point>DASER</Point>
+		 <Point>DAWIN</Point>
+		 <Point>DOVEY</Point>
+		 <Point>DRDGE</Point>
+		 <Point>DRYED</Point>
+		 <Point>ELJEZ</Point>
+		 <Point>ENAPI</Point>
+		 <Point>FERNA</Point>
+		 <Point>FISST</Point>
+		 <Point>FIVZE</Point>
+		 <Point>GALWY</Point>
+		 <Point>GALWY</Point>
+		 <Point>GECAL</Point>
+		 <Point>GLAAS</Point>
+		 <Point>GRATX</Point>
+		 <Point>HANCY</Point>
+		 <Point>JAINS</Point>
+		 <Point>JEBBY</Point>
+		 <Point>JENYY</Point>
+		 <Point>JIMAC</Point>
+		 <Point>JOBOC</Point>
+		 <Point>KAVAX</Point>
+		 <Point>KAYYT</Point>
+		 <Point>KEEKA</Point>
+		 <Point>KINCH</Point>
+		 <Point>KINER</Point>
+		 <Point>KINGG</Point>
+		 <Point>LACKS</Point>
+		 <Point>LAMER</Point>
+		 <Point>LAZEY</Point>
+		 <Point>LETON</Point>
+		 <Point>LNHOM</Point>
+		 <Point>LOMPI</Point>
+		 <Point>LUCTI</Point>
+		 <Point>MAPYL</Point>
+		 <Point>MARIG</Point>
+		 <Point>MILLE</Point>
+		 <Point>MLLER</Point>
+		 <Point>MUNEY</Point>
+		 <Point>NETSS</Point>
+		 <Point>NOVOK</Point>
+		 <Point>NUMBR</Point>
+		 <Point>OBIKE</Point>
+		 <Point>OKONU</Point>
+		 <Point>OPAUL</Point>
+		 <Point>OTTNG</Point>
+		 <Point>OWENZ</Point>
+		 <Point>PIREX</Point>
+		 <Point>RESQU</Point>
+		 <Point>RKDIA</Point>
+		 <Point>RNGRS</Point>
+		 <Point>ROLLE</Point>
+		 <Point>SAILE</Point>
+		 <Point>SAUCR</Point>
+		 <Point>SAVIK</Point>
+		 <Point>SEAVR</Point>
+		 <Point>SELIM</Point>
+		 <Point>SHEIL</Point>
+		 <Point>SIFEN</Point>
+		 <Point>SKPPR</Point>
+		 <Point>SLATN</Point>
+		 <Point>SNAGY</Point>
+		 <Point>SOCCO</Point>
+		 <Point>SOORY</Point>
+		 <Point>SQUAD</Point>
+		 <Point>SUMRS</Point>
+		 <Point>TALGO</Point>
+		 <Point>TROUT</Point>
+		 <Point>TUBBS</Point>
+		 <Point>UKOKA</Point>
+		 <Point>VEGAA</Point>
+		 <Point>WATRS</Point>
+		 <Point>WHOOS</Point>
+		 <Point>WICKE</Point>
+		 <Point>WINGZ</Point>
+		 <Point>ZZTOP</Point>
+	</Label>  
+  </Map>	
+</Maps>	

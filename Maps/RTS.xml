@@ -175,17 +175,7 @@
 
 	</Symbol>
   </Map>	
-  <Map Type="System" CustomColourName="SpringGreen" Name="UTA" Priority="1">	
-	<Symbol Type="Circle">
-	
-	</Symbol>
-  </Map>	
 
-  <Map Type="System" CustomColourName="Green" Name="UTA_Nms" Priority="1" >	
-	<Label>  
-
-	</Label>
-  </Map>		
   <Map Type="System" CustomColourName="SpringGreen" Name="Pts_Nms" Priority="1" >
     <Label> 
 		 <Point>AMENO</Point>

@@ -6,9 +6,12 @@
       <Sector Name="88" />
       <Sector Name="89" />
       <Sector Name="90" />
-      <Sector Name="16_17" />
-      <Sector Name="18_20" />
-      <Sector Name="21_24" />	  
+      <Sector Name="16" />
+      <Sector Name="17" />
+      <Sector Name="18" />	 
+      <Sector Name="20" />
+      <Sector Name="21" />
+      <Sector Name="24" /> 
     </Sectors>
     <Maps>
       <Map Name="FIR" />
@@ -114,7 +117,8 @@
   </Position>
   <Position Name="Sector 16_17" Type="ASD" DefaultCenter="+263737.0519-0492108.660" DefaultRange="2700">  
     <Sectors>
-      <Sector Name="16_17" />
+      <Sector Name="16" />
+      <Sector Name="17" />
     </Sectors>
     <Maps>
       <Map Name="FIR" />
@@ -136,7 +140,8 @@
   </Position>
     <Position Name="Sector 18_20" Type="ASD" DefaultCenter="+345146.1096-0513342.5281" DefaultRange="2400">  
     <Sectors>
-      <Sector Name="18_20" />
+      <Sector Name="18" />
+      <Sector Name="20" />
     </Sectors>
     <Maps>
       <Map Name="FIR" />
@@ -158,7 +163,8 @@
   </Position>
     <Position Name="Sector 21_24" Type="ASD" DefaultCenter="+411548.0377-0533428.7119" DefaultRange="1600">  
     <Sectors>
-      <Sector Name="21_24" />
+      <Sector Name="21" />
+      <Sector Name="24" />
     </Sectors>
     <Maps>
       <Map Name="FIR" />

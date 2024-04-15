@@ -24,22 +24,142 @@
   <Sector FullName="New York Center Gratx Sector 90" Frequency="130.350" Callsign="NY_XH_FSS" Name="90">  
 <Volumes>90_GRATX</Volumes> 
   </Sector>
-  <Sector FullName="New York Center Apollo Sector 16-17" Frequency="130.400" Callsign="NY_AL_FSS" Name="16_17L">  
+  <Sector FullName="New York Center Apollo Sector 16-17" Frequency="130.400" Callsign="NY_AL_FSS" Name="16">  
 <Volumes>1617_APOLLO</Volumes> 
   </Sector>
-  <Sector FullName="New York Center Apollo Sector 16-17" Frequency="130.450" Callsign="NY_AH_FSS" Name="16_17">  
+  <Sector FullName="New York Center Apollo Sector 16-17" Frequency="130.450" Callsign="NY_AH_FSS" Name="17">  
 <Volumes>1617_APOLLO</Volumes> 
   </Sector>
-  <Sector FullName="New York Center Gemini Sector 18-20" Frequency="130.500" Callsign="NY_GL_FSS" Name="18_20L">  
+  <Sector FullName="New York Center Gemini Sector 18-20" Frequency="130.500" Callsign="NY_GL_FSS" Name="18">  
 <Volumes>18020_GEMINI</Volumes> 
   </Sector>
-  <Sector FullName="New York Center Gemini Sector 18-20" Frequency="130.550" Callsign="NY_GH_FSS" Name="18_20">  
+  <Sector FullName="New York Center Gemini Sector 18-20" Frequency="130.550" Callsign="NY_GH_FSS" Name="20">  
 <Volumes>18020_GEMINI</Volumes> 
   </Sector>
-  <Sector FullName="New York Center Mercury Sector 21-24" Frequency="130.600" Callsign="NY_ML_FSS" Name="21_24L">  
+  <Sector FullName="New York Center Mercury Sector 21-24" Frequency="130.600" Callsign="NY_ML_FSS" Name="21">  
 <Volumes>2124_MERCURY</Volumes> 
   </Sector>
-  <Sector FullName="New York Center Mercury Sector 21-24" Frequency="130.650" Callsign="NY_MH_FSS" Name="21_24">  
+  <Sector FullName="New York Center Mercury Sector 21-24" Frequency="130.650" Callsign="NY_MH_FSS" Name="24">  
 <Volumes>2124_MERCURY</Volumes> 
   </Sector> 
+
+  <Sector FullName="Santa Maria Radio" Frequency="124.850" Callsign="LPPO_1_FSS" Name="SM" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Santa Maria Radio" Frequency="132.000" Callsign="LPPO_2_FSS" Name="SM" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Santa Maria Radio" Frequency="132.020" Callsign="LPPO_3_FSS" Name="SM" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Santa Maria Radio" Frequency="132.070" Callsign="LPPO_FSS" Name="SM" DisplayInSectorsWindow="False">      
+<Volumes>LPPO</Volumes> 
+  </Sector> 
+  <Sector FullName="Gander Radio" Frequency="131.700" Callsign="CZQX_A_FSS" Name="GA" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Gander Radio" Frequency="131.570" Callsign="CZQX_B_FSS" Name="GA" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Gander Radio" Frequency="131.670" Callsign="CZQX_C_FSS" Name="GA" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Gander Radio" Frequency="131.770" Callsign="CZQX_D_FSS" Name="GA" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Gander Radio" Frequency="131.870" Callsign="CZQX_F_FSS" Name="GA" DisplayInSectorsWindow="False"/>    
+  <Sector FullName="Gander Radio" Frequency="131.720" Callsign="CZQX_FSS" Name="GA" DisplayInSectorsWindow="False">  
+<Volumes>CZQX</Volumes> 
+  </Sector> 
+  <!--Sector FullName="New York Center Bacus Sector 88" Frequency="130.150" Callsign="NY_BH_FSS" Name="88">  
+<Volumes>TZZO</Volumes> 
+  </Sector--> 
+  <Sector FullName="Piarco Radio" Frequency="126.500" Callsign="TTZP_CTR" Name="TP" DisplayInSectorsWindow="False"> 
+<Volumes>TZZP</Volumes> 
+  </Sector>
+  <!--Sector FullName="New York Center Kraft Sector 89" Frequency="130.250" Callsign="NY_KH_FSS" Name="89">  
+<Volumes>MYNN</Volumes> 
+  </Sector-->
+  <Sector FullName="San Juan Center" Frequency="118.150" Callsign="SJU_2_CTR" Name="SJ" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="San Juan Center" Frequency="125.000" Callsign="SJU_4_CTR" Name="SJ" DisplayInSectorsWindow="False"/>
+  <Sector FullName="San Juan Center" Frequency="135.700" Callsign="SJU_8_CTR" Name="SJ" DisplayInSectorsWindow="False"/>
+  <Sector FullName="San Juan Center" Frequency="118.750" Callsign="SJU_CTR" Name="SJ" DisplayInSectorsWindow="False">  
+<Volumes>TJZS</Volumes> 
+  </Sector>
+  <Sector FullName="Mocton Center" Frequency="132.200" Callsign="CZQM_0_CTR" Name="QM" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Mocton Center" Frequency="123.900" Callsign="CZQM_1_CTR" Name="QM" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Mocton Center" Frequency="132.700" Callsign="CZQM_2_CTR" Name="QM" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Mocton Center" Frequency="135.650" Callsign="CZQM_3_CTR" Name="QM" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Mocton Center" Frequency="132.750" Callsign="CZQM_E_CTR" Name="QM" DisplayInSectorsWindow="False"/>    
+  <Sector FullName="Mocton Center" Frequency="132.800" Callsign="CZQM_H_CTR" Name="QM" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Mocton Center" Frequency="134.250" Callsign="CZQM_S_CTR" Name="QM" DisplayInSectorsWindow="False"/>    
+  <Sector FullName="Mocton Center" Frequency="133.350" Callsign="CZQM_ZV_CTR" Name="QM" DisplayInSectorsWindow="False">  
+<Volumes>CZQM</Volumes> 
+  </Sector>
+  <Sector FullName="Jacksonville Center" Frequency="135.925" Callsign="JAX_30_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="125.050" Callsign="JAX_33_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="134.850" Callsign="JAX_35_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="127.875" Callsign="JAX_66_CTR" Name="JX" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Jacksonville Center" Frequency="124.475" Callsign="JAX_11_CTR" Name="JX" DisplayInSectorsWindow="False"/> 
+  <Sector FullName="Jacksonville Center" Frequency="125.175" Callsign="JAX_16_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="135.970" Callsign="JAX_50_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="135.050" Callsign="JAX_52_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="126.350" Callsign="JAX_58_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="126.125" Callsign="JAX_68_CTR" Name="JX" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Jacksonville Center" Frequency="127.470" Callsign="JAX_75_CTR" Name="JX" DisplayInSectorsWindow="False"/>     
+  <Sector FullName="Jacksonville Center" Frequency="120.125" Callsign="JAX_51_CTR" Name="JX" DisplayInSectorsWindow="False">  
+<Volumes>KZJX</Volumes> 
+  </Sector>
+  <Sector FullName="Miami Oceanic" Frequency="123.775" Callsign="ZMO_43_CTR" Name="MO" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Miami Oceanic" Frequency="124.520" Callsign="ZMO_58_CTR" Name="MO" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Oceanic" Frequency="134.800" Callsign="ZMO_59_CTR" Name="MO" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Oceanic" Frequency="132.300" Callsign="ZMO_62_CTR" Name="MO" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Oceanic" Frequency="135.200" Callsign="ZMO_63_CTR" Name="MO" DisplayInSectorsWindow="False">   
+<Volumes>KZMO</Volumes> 
+  </Sector>
+  <Sector FullName="Miami Center" Frequency="119.825" Callsign="MIA_02_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="132.250" Callsign="MIA_04_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="132.700" Callsign="MIA_05_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="132.200" Callsign="MIA_06_CTR" Name="MI" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Miami Center" Frequency="133.900" Callsign="MIA_08_CTR" Name="MI" DisplayInSectorsWindow="False"/> 
+  <Sector FullName="Miami Center" Frequency="123.670" Callsign="MIA_19_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="132.150" Callsign="MIA_20_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="133.400" Callsign="MIA_21_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="126.950" Callsign="MIA_23_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="128.225" Callsign="MIA_25_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="124.700" Callsign="MIA_26_CTR" Name="MI" DisplayInSectorsWindow="False"/>     
+  <Sector FullName="Miami Center" Frequency="126.325" Callsign="MIA_40_CTR" Name="MI" DisplayInSectorsWindow="False"/> 
+  <Sector FullName="Miami Center" Frequency="135.600" Callsign="MIA_41_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="133.850" Callsign="MIA_42_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="135.175" Callsign="MIA_46_CTR" Name="MI" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Miami Center" Frequency="126.525" Callsign="MIA_64_CTR" Name="MI" DisplayInSectorsWindow="False">     
+<Volumes>KZMA</Volumes> 
+  </Sector>
+  <Sector FullName="Washington Center" Frequency="118.825" Callsign="DC_09_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="123.850" Callsign="DC_24_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="135.500" Callsign="DC_25_CTR" Name="DC" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Washington Center" Frequency="135.750" Callsign="DC_26_CTR" Name="DC" DisplayInSectorsWindow="False"/> 
+  <Sector FullName="Washington Center" Frequency="118.475" Callsign="DC_28_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="133.825" Callsign="DC_34_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="124.025" Callsign="DC_35_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="120.750" Callsign="DC_50_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="132.550" Callsign="DC_23_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="121.375" Callsign="DC_39_CTR" Name="DC" DisplayInSectorsWindow="False"/>     
+  <Sector FullName="Washington Center" Frequency="127.700" Callsign="DC_51_CTR" Name="DC" DisplayInSectorsWindow="False"/> 
+  <Sector FullName="Washington Center" Frequency="132.050" Callsign="DC_53_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="120.975" Callsign="DC_54_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="121.025" Callsign="DC_58_CTR" Name="DC" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Washington Center" Frequency="133.125" Callsign="DC_59_CTR" Name="DC" DisplayInSectorsWindow="False">
+<Volumes>KZDC</Volumes> 
+  </Sector>
+  <Sector FullName="Boston Center" Frequency="123.750" Callsign="BOS_36_CTR" Name="BW" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="Boston Center" Frequency="134.700" Callsign="BOS_37_CTR" Name="BW" DisplayInSectorsWindow="False"/> 
+  <Sector FullName="Boston Center" Frequency="135.320" Callsign="BOS_38_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="128.320" Callsign="BOS_39_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="135.700" Callsign="BOS_52_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="118.820" Callsign="BOS_53_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="124.520" Callsign="BOS_31_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="135.800" Callsign="BOS_32_CTR" Name="BW" DisplayInSectorsWindow="False"/>     
+  <Sector FullName="Boston Center" Frequency="132.300" Callsign="BOS_33_CTR" Name="BW" DisplayInSectorsWindow="False"/> 
+  <Sector FullName="Boston Center" Frequency="124.850" Callsign="BOS_34_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="126.220" Callsign="BOS_46_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="133.420" Callsign="BOS_47_CTR" Name="BW" DisplayInSectorsWindow="False"/>
+  <Sector FullName="Boston Center" Frequency="132.300" Callsign="BOS_49_CTR" Name="BW" DisplayInSectorsWindow="False"> 
+<Volumes>KZBW</Volumes> 
+  </Sector>
+  <Sector FullName="New York Center" Frequency="128.300" Callsign="NY_66_CTR" Name="NY" DisplayInSectorsWindow="False"/>
+  <Sector FullName="New York Center" Frequency="126.020" Callsign="NY_82_CTR" Name="NY" DisplayInSectorsWindow="False"/>
+  <Sector FullName="New York Center" Frequency="133.520" Callsign="NY_83_CTR" Name="NY" DisplayInSectorsWindow="False"/>  
+  <Sector FullName="New York Center" Frequency="125.920" Callsign="NY_65_CTR" Name="NY" DisplayInSectorsWindow="False"/>
+  <Sector FullName="New York Center" Frequency="119.100" Callsign="NY_80_CTR" Name="NY" DisplayInSectorsWindow="False"/>
+  <Sector FullName="New York Center" Frequency="128.500" Callsign="NY_81_CTR" Name="QB" DisplayInSectorsWindow="False"/>
+  <Sector FullName="New York Center" Frequency="133.500" Callsign="NY_86_CTR" Name="NY" DisplayInSectorsWindow="False"> 
+<Volumes>KZNY,80_COCOA</Volumes> 
+  </Sector>
 </Sectors>

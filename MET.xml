@@ -7,11 +7,16 @@
     <NOTAM url="http://api.vateud.net/notams/%ICAO.xml" xmlDataTag="raw" />
   </ProductTypes>
   <Browsers><!--bomw0007-->
-	<AreaQNH url="https://www.weather.gov/zoa/#" />
-	<WXRadars url="http://www.bom.gov.au/australia/radar/" />
-    <BOM url="https://www.weather.gov/zoa/#" />
-    <NAIPS url="https://www.airservicesaustralia.com/naips/Account/LogOn" />
-    <AIP url="https://aeronav.faa.gov/Upload_313-d/supplements/CS_PAC_20200716.pdf" />
-    <ATCAssist url="http://atc.vatpac.org" />
+	<JO7110.65 url="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap_8.html" />
+	<ICAO4444 url="https://www.ealts.com/documents/ICAO%20Doc%204444%20Air%20Traffic%20Management.pdf" />		
+	<AIP url="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_7.4.html" />
+	<ICAOFP url="https://www.faa.gov/sites/faa.gov/files/FAA%20FPL%20Quick%20Reference%20Brochure%20%282022-09-15%29.pdf" />
+	<SOP url="https://wiki.nyartcc.org/index.php?title=ZWY_SOP" />
+	<NATManual url="https://www.icao.int/EURNAT/EUR%20and%20NAT%20Documents/NAT%20Documents/NAT%20Documents/NAT%20Doc%20007/NAT%20Doc%20007%20Ed%20V.2023-1_eff%20Jan2023.pdf" />
+	<ARINCFreqs url="https://radio.arinc.net/atlantic/" />
+    <WX url="https://aviationweather.gov/gfa/#sigmet" />    
+    <NATRESOURCEGUIDE url="https://www.faa.gov/sites/faa.gov/files/NAT_6.pdf" />
+    <NATTracks url="https://www.notams.faa.gov/common/nat.html" />
+    <Help url="https://virtualairtrafficsystem.com/docs/" />
   </Browsers>
 </MET>
